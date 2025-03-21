@@ -8,18 +8,15 @@
 ## 🛠 Technologies Used
 
 ### **Frontend**
-- **Next.js / React.js**
-- **Tailwind CSS**
+- **React.js**
 - **Axios**
+- **Bootstrap**
 - **React Router**
-- **Vercel / Netlify (for deployment)**
 
 ### **Backend**
 - **Node.js + Express.js**
-- **MongoDB / MySQL**
-- **JWT Authentication**
-- **Cloudinary / AWS S3 for file uploads**
-- **Render / Railway / AWS (for deployment)**
+- **MongoDB**
+- **multer**
 
 ---
 
